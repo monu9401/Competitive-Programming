@@ -1,2 +1,2 @@
 # Competitive-Programming
-This repo consists of solutions of various competitive programming questions from contests and practice sections.
+This repository consists of solutions of various competitive programming questions from contests and practice sections.
